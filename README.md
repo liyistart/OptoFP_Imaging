@@ -1,4 +1,4 @@
-# Fezf2 ET 2P Imaging Dataset + Analysis Notebook
+# OptoFP 2P Imaging Analysis
 
 This repository contains code used to analyze 2‑photon calcium imaging data during a mouse reach‑to‑consume task with and without 
 optogenetic muscle stimulation. `batch2Ana_Fezf2_Population_Final_20260204.ipynb` used to generate population‑level figures.
