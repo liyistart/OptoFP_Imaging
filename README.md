@@ -30,21 +30,6 @@ Place these in the repo root (same folder as the notebook), unless you update pa
 - `Fezf2_OptoFP_2P_Spks_Sum.pkl`
 - `Fezf2_Sortinfo.pkl`
 
-## Install (example)
-Using conda:
-```bash
-conda create -n suite2p python=3.9
-conda activate suite2p
-pip install numpy scipy pandas matplotlib scikit-learn pingouin jupyter
-```
-
-Using pip:
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install numpy scipy pandas matplotlib scikit-learn pingouin jupyter
-```
-
 ## Run
 ```bash
 jupyter lab
