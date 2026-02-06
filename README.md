@@ -8,11 +8,6 @@ optogenetic muscle stimulation. `batch2Ana_Fezf2_Population_Final_20260204.ipynb
   - Population analysis for Fezf2 ET neurons during a reach‑to‑consume task with/without optogenetic muscle stimulation.
 
 ## Requirements
-Tested metadata from the notebook:
-- Python `3.9.21`
-- Jupyter Notebook or JupyterLab
-- Kernel name: `suite2p` (recommended to match the notebook metadata)
-
 Python packages used directly in the notebook:
 - `numpy`
 - `scipy`
