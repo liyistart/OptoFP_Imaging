@@ -19,6 +19,7 @@ Python packages used directly in the notebook:
 Local modules required (must be importable from the repo root):
 - `AdvancedAnalysis_2P.py`
 - `BasicProcessing_2P.py`
+- `regression_utils.py` 
 
 ## Data Files (required)
 Place these in the repo root (same folder as the notebook), unless you update paths inside the notebook:
