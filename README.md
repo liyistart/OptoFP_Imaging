@@ -46,6 +46,14 @@ For general data analysis, please place these in the repo root (same folder as t
 
 The data files for running computational modeling has been put in the directory `/modeling_data`, these data is directly extracted from `Fezf2_OptoFP_2P_Spks_Sum.pkl` with no other preprocessing. 
 
+
+## Installation
+```
+conda create -n optoFP python=3.11
+conda activate optoFP
+pip install -r requirements.txt
+```
+
 ## Run
 ```bash
 jupyter lab
