@@ -1,8 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import sys
-# sys.path.insert(0,'/home/sp645/external_packages/dynamax/dynamax')
-# from dynamax.linear_gaussian_ssm.models import LinearGaussianSSM
 from sklearn.model_selection import KFold
 from sklearn.linear_model import Ridge
 from sklearn.linear_model import LinearRegression
